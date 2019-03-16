@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;        
+}
+
+h1 {
+    background-color:rgb(245, 245, 245);    
+    color: #80006f;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button{
+    padding: 1px 10px;
+    font-size: 20px;
+}
+
+.container{
+    margin: 20px;
+    padding: 20px;
+}
+
+.green{
+    color: seagreen;
+}
+
+.red{
+    color:tomato;
+}
+
+.blue{
+    color:royalblue;
+}
